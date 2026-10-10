@@ -1,3 +1,4 @@
 kafka-python
 textblob
 elasticsearch==7.17.9
+newsapi-python
